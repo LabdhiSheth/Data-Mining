@@ -1,0 +1,15 @@
+ID,Age,Income,Student,Credit Rating,Buy Car
+1,Young,High,No,Fair,No
+2,Young,High,No,Good,No
+3,Middle,High,No,Fair,Yes
+4,Old,Medium,No,Fair,Yes
+5,Old,Low,Yes,Fair,Yes
+6,Old,Low,Yes,Good,No
+7,Middle,Low,Yes,Good,Yes
+8,Young,Medium,No,Fair,No
+9,Young,Low,Yes,Fair,Yes
+10,Old,Medium,Yes,Fair,Yes
+11,Young,Medium,Yes,Good,Yes
+12,Middle,Medium,No,Good,Yes
+13,Middle,High,Yes,Fair,Yes
+14,Old,Medium,No,Good,No
